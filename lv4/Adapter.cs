@@ -37,10 +37,7 @@ namespace lv4
             return array;
         }
 
-        private Dataset GetData()
-        {
-            throw new NotImplementedException();
-        }
+    
 
         public double[] CalculateAveragePerColumn(Dataset dataset)
         {
