@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lv4
 {
-    //Z5
+    
     class HotItem : RentableDecorator
     {
         private readonly double HotItemBonus = 1.99;
