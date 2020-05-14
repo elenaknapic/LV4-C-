@@ -13,7 +13,7 @@ namespace lv4
         static void Main(string[] args)
         {
             //Z2
-            //Dataset dataset = new Dataset(@"C:\Users\Elena\Source\Repos\lv4\lv4\bin\Debug\CSV.txt");
+            //Dataset dataset = new Dataset(@"C:\Users\Elena\Source\Repos\lv4\lv4\bin\Debug\LV3.cvs");
             //Analyzer3rdParty party = new Analyzer3rdParty();
             //Adapter adapter = new Adapter(party);
             //double[] rowAverage = adapter.CalculateAveragePerRow(dataset);
